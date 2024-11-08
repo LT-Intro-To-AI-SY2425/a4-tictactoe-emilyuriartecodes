@@ -10,8 +10,8 @@ The most difficult part was understanding the check format for the tic-tac-toe t
 
 2. Explain how you would add a computer player to the game.
 
-I would gather information on how the main patterns of tic tac toe are (maybe add AI) and use them into the code. 
+I would gather information on how the main patterns of tic tac toe are and then feed that infor to AI as a computer player. 
 
 3. If you add a computer player, explain (doesn't have to be super technical) how you might get the computer player to play the best move every time. *Note - I am not grading this for a correct answer, I just want to know your thoughts on how you might accomplish it.
 
-I would use AI to self-learn from its mistakes. That way its always playing the best of its abilities.
+I would use AI because of it's capabilities to self-learn from its mistakes. Implementing a minimax algorithim is also a way to have Ai  always play at the best of its abilities.
